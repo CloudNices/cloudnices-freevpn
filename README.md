@@ -16,11 +16,9 @@ Stay secure, private, and unrestricted online with our trusted and verified VPN 
 
 ## 🔗 Latest Free V2Ray Subscription (最新免费 V2Ray 订阅)
 
-Get the most recent and reliable V2Ray subscription link for high-speed, secure browsing across global nodes.
-
 获取最新稳定的 V2Ray 免费订阅链接，享受高速、安全的网络连接：
 
-- 👉 [`https://vpn.cloudnices.com/2025/07/20250710.txt`](https://vpn.cloudnices.com/2025/07/20250710.txt)
+👉 [https://vpn.cloudnices.com/2025-07-10](https://vpn.cloudnices.com/2025-07-10)
 
 > 📅 Updated: **2025-07-10**
 
@@ -34,10 +32,11 @@ Get the most recent and reliable V2Ray subscription link for high-speed, secure 
 - ✅ **Global Servers** - US, SG, CA, HK, Europe, and more  
 - ✅ **SEO-Optimized Blog Integration** - Auto-publish via Astro blog
 
+---
 
 ## 🤖 Automation
 
-- Runs daily at **5:00 AM** 
+- Runs daily at **6:00 AM**  
 - Automatically commits and pushes to this repository
 
 ---
@@ -46,4 +45,3 @@ Get the most recent and reliable V2Ray subscription link for high-speed, secure 
 
 This project is licensed under the MIT License.  
 请根据所在地区合法合规使用 VPN 工具和服务。
-
