@@ -18,9 +18,9 @@ Stay secure, private, and unrestricted online with our trusted and verified VPN 
 
 获取最新稳定的 V2Ray 免费订阅链接，享受高速、安全的网络连接：
 
-👉 [https://vpn.cloudnices.com/posts/free-vpn-nodes-2025-07-10](https://vpn.cloudnices.com/posts/free-vpn-nodes-2025-07-10)
+👉 [https://vpn.cloudnices.com/posts/free-vpn-nodes-2025-07-11](https://vpn.cloudnices.com/posts/free-vpn-nodes-2025-07-11)
 
-> 📅 Updated: **2025-07-10**
+> 📅 Updated: **2025-07-11**
 
 ---
 
